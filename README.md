@@ -8,3 +8,5 @@ collatzloop.py contains the exercise from week 3.
 1-20loop.py contains exercise 4
 
 openpython.py contains exercise 5
+
+factorial.py contains exercise 6
