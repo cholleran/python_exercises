@@ -1,5 +1,4 @@
 
-
 # GMIT Module 52167 - Exercise 6 - Student: Cormac Holleran
 # Adapted from https://www.programiz.com/python-programming/examples/factorial and
 # https://stackoverflow.com/questions/5136447/function-for-factorial-in-python
@@ -10,6 +9,7 @@ def factorial_find(x):
     factfin = factfin * i
   return(factfin)
 
+# The program is a function 'factorial_find' which has one argument. The function is called in the below print statements.
 # for each number in the range 1- 5(including 5) the program starts with factfin value 1 and multiplies by first number in range
 #  Each iteration creates a new variable called 'factfin', and each num in range is only multiplied by 'factfin' once.
 
